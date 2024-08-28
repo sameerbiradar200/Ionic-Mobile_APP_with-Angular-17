@@ -13,11 +13,7 @@ git clone https://github.com/sameerbiradar200/Ionic-Mobile_APP_with-Angular-17.g
 cd Ionic-Mobile_APP_with-Angular-17
 
 
-npm install
-ionic serve
-ionic build --prod
 
-or directly you can go to cmd to this browser file and run these commands
 
 npm install -g http-server
 http-server
