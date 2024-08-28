@@ -11,9 +11,6 @@ First, clone the repository to your local machine:
 ```bash
 git clone https://github.com/sameerbiradar200/Ionic-Mobile_APP_with-Angular-17.git
 cd Ionic-Mobile_APP_with-Angular-17
-
-
-
-
+cd browser
 npm install -g http-server
 http-server
